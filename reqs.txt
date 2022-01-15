@@ -1,0 +1,20 @@
+Assignment 2 requirements
+
+Name same
+Nav menu optional
+Header must
+No lorem
+Button must, Icon must, colors must match
+Img same, background optional
+Company logos optional
+Collection must
+9 items
+Img border radius optional
+Img size consistent
+Image, text same
+See more with icon must
+Featured optional
+Footer must
+Social icons must
+
+Responsive must
