@@ -114,6 +114,9 @@ header nav ul li a {
 .item .title, .item .price {
     font-size: 24px;
 }
+.item .rating .fa-star {
+    color: orange;
+}
 .item .detail {
     font-weight: 700;
     color: #666;
